@@ -1,7 +1,7 @@
 //pratto priscila
 //comision 1
 // tp4
-//link del video
+//https://www.youtube.com/watch?v=f7LPJrTxkPs
 // juego space invaders
 
 let cx, cy, can, calt; // medidas del cañón
