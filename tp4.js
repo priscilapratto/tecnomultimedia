@@ -16,7 +16,7 @@ let navey = [];
 let dnx = [];
 let cant = 5;
 let derribos = 0; // variable para las naves derribadas
-let escapes = 0; // variable par alas naves que se escapen
+let escapes = 0; // variable para las naves que se escapen
 let cargador = 0;// variable del cargador de las balas
 let cargadorcompleto = true;
 
